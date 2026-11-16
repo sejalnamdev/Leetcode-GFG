@@ -17,4 +17,12 @@ here i will solve and upload solutions of leetcode and gfg coding Problems for m
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
