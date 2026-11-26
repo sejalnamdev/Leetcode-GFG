@@ -9,7 +9,7 @@ class Solution:
 
         while curr and curr.next:
             if curr.val == curr.next.val:
-                curr.next = curr.next.next
+                curr.next = curr.next.next                  #skip the next node
                 
             else:
                 curr = curr.next
