@@ -8,6 +8,7 @@ here i will solve and upload solutions of leetcode and gfg coding Problems for m
 | ------- |
 | [0001-two-sum](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0001-two-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
@@ -18,6 +19,7 @@ here i will solve and upload solutions of leetcode and gfg coding Problems for m
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -34,4 +36,8 @@ here i will solve and upload solutions of leetcode and gfg coding Problems for m
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
