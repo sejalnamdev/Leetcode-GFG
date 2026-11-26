@@ -30,4 +30,8 @@ here i will solve and upload solutions of leetcode and gfg coding Problems for m
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
