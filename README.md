@@ -6,6 +6,7 @@ here i will solve and upload solutions of leetcode and gfg coding Problems for m
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0001-two-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
@@ -25,4 +26,8 @@ here i will solve and upload solutions of leetcode and gfg coding Problems for m
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
