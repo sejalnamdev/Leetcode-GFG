@@ -7,6 +7,7 @@ here i will solve and upload solutions of leetcode and gfg coding Problems for m
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -39,5 +40,10 @@ here i will solve and upload solutions of leetcode and gfg coding Problems for m
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0977-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sejalnamdev/Leetcode-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
